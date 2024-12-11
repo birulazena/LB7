@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g CMakeFiles/CMake_for_LB7.dir/Task.cpp.o -o CMake_for_LB7 

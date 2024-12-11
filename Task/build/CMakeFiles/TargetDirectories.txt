@@ -1,0 +1,5 @@
+/home/birulya-zhenka/Documents/453501/ОАиП/LB7/Task/build/CMakeFiles/CMake_for_LB7_address.dir
+/home/birulya-zhenka/Documents/453501/ОАиП/LB7/Task/build/CMakeFiles/CMake_for_LB7_tsan.dir
+/home/birulya-zhenka/Documents/453501/ОАиП/LB7/Task/build/CMakeFiles/CMake_for_LB7.dir
+/home/birulya-zhenka/Documents/453501/ОАиП/LB7/Task/build/CMakeFiles/edit_cache.dir
+/home/birulya-zhenka/Documents/453501/ОАиП/LB7/Task/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/birulya-zhenka/Documents/453501/ОАиП/LB7/Task/build",
+  "command": "/usr/bin/clang++   -g -fsanitize=address -o CMakeFiles/CMake_for_LB7_address.dir/Task.cpp.o -c /home/birulya-zhenka/Documents/453501/ОАиП/LB7/Task/Task.cpp",
+  "file": "/home/birulya-zhenka/Documents/453501/ОАиП/LB7/Task/Task.cpp",
+  "output": "CMakeFiles/CMake_for_LB7_address.dir/Task.cpp.o"
+},
+{
+  "directory": "/home/birulya-zhenka/Documents/453501/ОАиП/LB7/Task/build",
+  "command": "/usr/bin/clang++   -g -fsanitize=thread -o CMakeFiles/CMake_for_LB7_tsan.dir/Task.cpp.o -c /home/birulya-zhenka/Documents/453501/ОАиП/LB7/Task/Task.cpp",
+  "file": "/home/birulya-zhenka/Documents/453501/ОАиП/LB7/Task/Task.cpp",
+  "output": "CMakeFiles/CMake_for_LB7_tsan.dir/Task.cpp.o"
+},
+{
+  "directory": "/home/birulya-zhenka/Documents/453501/ОАиП/LB7/Task/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/CMake_for_LB7.dir/Task.cpp.o -c /home/birulya-zhenka/Documents/453501/ОАиП/LB7/Task/Task.cpp",
+  "file": "/home/birulya-zhenka/Documents/453501/ОАиП/LB7/Task/Task.cpp",
+  "output": "CMakeFiles/CMake_for_LB7.dir/Task.cpp.o"
+}
+]

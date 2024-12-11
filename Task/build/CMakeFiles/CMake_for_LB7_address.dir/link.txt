@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g CMakeFiles/CMake_for_LB7_address.dir/Task.cpp.o -o CMake_for_LB7_address  -fsanitize=address 
